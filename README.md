@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   </div>
+  
   <br />
   <br />
   <br />
@@ -28,5 +29,11 @@
   <br />
   <br />
   <br />
+
+  <h3 align="center">📌 Github Stats</h3>
+
+![super2918 github stats](https://github-readme-stats.vercel.app/api?username=super2918&show_icons=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super2918&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![super2918's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=super2918)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=10&section=footer)
