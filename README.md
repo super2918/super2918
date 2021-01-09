@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&&text=>%20Hello,%20world!&fontSize=30&capsule_render&animation=twinkling)
-<div style="text-align:center">
-  <strong align="center" style="display:block;font-size:20px">🛠 Tech Stack 🛠</strong>
+  <p align="center" style="font-size:30px">🛠 Tech Stack 🛠</p>
   <p align="center">Techs that I've used at least once</p>
 
   <div align="center">
@@ -16,7 +15,7 @@
   <br />
   <br />
   <br />
-  <strong align="center" style="display:block;font-size:20px">📖 Learing Stack 📖</strong>
+  <p align="center" style="font-size:30px">📖 Learing Stack 📖</p>
   <p align="center">I'm learing some of skiles</p>
   <div align="center">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
@@ -29,5 +28,5 @@
   <br />
   <br />
   <br />
-</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=10&section=footer)
