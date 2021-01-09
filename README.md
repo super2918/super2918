@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&&text=>%20Hello,%20world!&fontSize=30&capsule_render&animation=twinkling)
-  <p align="center" style="font-size:30px">🛠 Tech Stack 🛠</p>
+  <h3 align="center">🛠 Tech Stack 🛠</h3>
   <p align="center">Techs that I've used at least once</p>
 
   <div align="center">
@@ -15,7 +15,7 @@
   <br />
   <br />
   <br />
-  <p align="center" style="font-size:30px">📖 Learing Stack 📖</p>
+  <h3 align="center">📖 Learing Stack 📖</h3>
   <p align="center">I'm learing some of skiles</p>
   <div align="center">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
