@@ -37,6 +37,6 @@
 ![super2918 github stats](https://github-readme-stats.vercel.app/api?username=super2918&show_icons=true&layout=compact&line_height=20&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=super2918&layout=default&langs_count=8&card_width=300px&hide_border=true)
 <!-- exclude_repo=javascript_study,super2918.github.io,node.js_project -->
-[![super2918's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=super2918)]
+<!-- ![super2918's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=super2918) -->
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=10&section=footer)
